@@ -1,0 +1,22 @@
+{
+  "name": "genai-foundations-module01-javascript",
+  "version": "1.0.0",
+  "description": "Module 01: Language Models and Generative AI Foundations - JavaScript",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "langchain",
+    "azure",
+    "openai",
+    "generative-ai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/openai": "^0.3.14",
+    "@langchain/core": "^0.3.24",
+    "dotenv": "^16.4.7"
+  }
+}
