@@ -1,0 +1,27 @@
+{
+  "name": "module02-prompt-engineering",
+  "version": "1.0.0",
+  "description": "Module 02: Prompt Engineering for Retail/eCommerce - JavaScript Implementation",
+  "type": "module",
+  "main": "prompt-engineering.js",
+  "scripts": {
+    "start": "node prompt-engineering.js",
+    "solution": "node Solution/prompt-engineering-solution.js"
+  },
+  "keywords": [
+    "prompt-engineering",
+    "langchain",
+    "openai",
+    "retail",
+    "ecommerce"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.68.4",
+    "@langchain/openai": "^0.3.12",
+    "@langchain/core": "^0.3.18",
+    "langchain": "^0.3.5",
+    "dotenv": "^16.4.5"
+  }
+}

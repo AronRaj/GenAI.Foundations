@@ -1,0 +1,255 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Samsung 55-inch 4K Smart TV",
+      "category": "Electronics",
+      "price": 549.99,
+      "stock": 45,
+      "description": "Experience stunning picture quality with this Samsung 55-inch 4K UHD Smart TV. Features HDR support, built-in streaming apps, and voice control.",
+      "rating": 4.5,
+      "reviews_count": 1247
+    },
+    {
+      "id": "P002",
+      "name": "Organic Whole Milk - 1 Gallon",
+      "category": "Grocery",
+      "price": 5.99,
+      "stock": 230,
+      "description": "Fresh organic whole milk from grass-fed cows. Rich in calcium and vitamin D. No artificial hormones.",
+      "rating": 4.7,
+      "reviews_count": 892
+    },
+    {
+      "id": "P003",
+      "name": "Nike Air Max Running Shoes",
+      "category": "Sports & Outdoors",
+      "price": 119.99,
+      "stock": 87,
+      "description": "Premium running shoes with Air Max cushioning technology. Breathable mesh upper, durable rubber sole.",
+      "rating": 4.6,
+      "reviews_count": 2103
+    },
+    {
+      "id": "P004",
+      "name": "Instant Pot Duo 7-in-1 Pressure Cooker",
+      "category": "Home & Kitchen",
+      "price": 89.99,
+      "stock": 156,
+      "description": "Multi-functional pressure cooker that replaces 7 kitchen appliances. 6-quart capacity perfect for families.",
+      "rating": 4.8,
+      "reviews_count": 5621
+    },
+    {
+      "id": "P005",
+      "name": "Crest 3D White Toothpaste - 3 Pack",
+      "category": "Health & Personal Care",
+      "price": 12.99,
+      "stock": 340,
+      "description": "Whitening toothpaste that removes up to 80% of surface stains. Fresh mint flavor. Pack of 3 tubes.",
+      "rating": 4.4,
+      "reviews_count": 1567
+    },
+    {
+      "id": "P006",
+      "name": "LEGO Star Wars Millennium Falcon",
+      "category": "Toys & Games",
+      "price": 159.99,
+      "stock": 62,
+      "description": "Build the iconic Millennium Falcon with this detailed LEGO set. 1,351 pieces. Includes minifigures of Han Solo, Chewbacca, and more.",
+      "rating": 4.9,
+      "reviews_count": 3456
+    },
+    {
+      "id": "P007",
+      "name": "Keurig K-Classic Coffee Maker",
+      "category": "Home & Kitchen",
+      "price": 89.99,
+      "stock": 123,
+      "description": "Single-serve K-Cup pod coffee maker. Brews multiple cup sizes. Simple button controls.",
+      "rating": 4.5,
+      "reviews_count": 8934
+    },
+    {
+      "id": "P008",
+      "name": "Apple AirPods Pro (2nd Gen)",
+      "category": "Electronics",
+      "price": 249.99,
+      "stock": 201,
+      "description": "Active noise cancellation, transparency mode, personalized spatial audio. Up to 6 hours of listening time.",
+      "rating": 4.7,
+      "reviews_count": 12456
+    }
+  ],
+  "customer_reviews": [
+    {
+      "review_id": "R001",
+      "product_id": "P001",
+      "customer_name": "John Davis",
+      "rating": 5,
+      "review_text": "Amazing picture quality! The 4K resolution is crystal clear and the smart features work flawlessly. Setup was easy and intuitive. Highly recommend for anyone looking for a great TV at this price point.",
+      "date": "2024-09-15",
+      "helpful_count": 45
+    },
+    {
+      "review_id": "R002",
+      "product_id": "P001",
+      "customer_name": "Sarah Miller",
+      "rating": 4,
+      "review_text": "Great TV overall but the sound could be better. I ended up getting a soundbar. Picture is fantastic though!",
+      "date": "2024-09-20",
+      "helpful_count": 23
+    },
+    {
+      "review_id": "R003",
+      "product_id": "P004",
+      "customer_name": "Emily Chen",
+      "rating": 5,
+      "review_text": "This Instant Pot changed my life! I can make meals in half the time. The yogurt function is amazing too. Best kitchen appliance I've ever purchased.",
+      "date": "2024-08-10",
+      "helpful_count": 156
+    },
+    {
+      "review_id": "R004",
+      "product_id": "P003",
+      "customer_name": "Michael Johnson",
+      "rating": 5,
+      "review_text": "Perfect running shoes! The cushioning is excellent and they're very comfortable even on long runs. Worth every penny.",
+      "date": "2024-09-01",
+      "helpful_count": 67
+    },
+    {
+      "review_id": "R005",
+      "product_id": "P006",
+      "customer_name": "David Wilson",
+      "rating": 5,
+      "review_text": "My son absolutely loves this set! The build quality is excellent and it looks amazing when completed. A must-have for any Star Wars fan.",
+      "date": "2024-07-22",
+      "helpful_count": 89
+    },
+    {
+      "review_id": "R006",
+      "product_id": "P008",
+      "customer_name": "Lisa Anderson",
+      "rating": 4,
+      "review_text": "Great sound quality and the noise cancellation is impressive. Only downside is the price, but they're worth it if you can afford them.",
+      "date": "2024-09-18",
+      "helpful_count": 34
+    },
+    {
+      "review_id": "R007",
+      "product_id": "P002",
+      "customer_name": "Robert Taylor",
+      "rating": 5,
+      "review_text": "Best organic milk I've found at Walmart. Tastes fresh and creamy. My kids love it!",
+      "date": "2024-09-25",
+      "helpful_count": 12
+    },
+    {
+      "review_id": "R008",
+      "product_id": "P007",
+      "customer_name": "Jennifer Martinez",
+      "rating": 4,
+      "review_text": "Makes great coffee quickly. Very convenient for busy mornings. Wish it had a larger water reservoir.",
+      "date": "2024-08-30",
+      "helpful_count": 28
+    }
+  ],
+  "customer_support_tickets": [
+    {
+      "ticket_id": "T001",
+      "customer_name": "Mark Stevens",
+      "issue_type": "Product Defect",
+      "product_id": "P001",
+      "description": "TV has a dead pixel in the bottom right corner. Noticed it after 2 days of use.",
+      "status": "Open",
+      "priority": "High",
+      "created_date": "2024-10-01"
+    },
+    {
+      "ticket_id": "T002",
+      "customer_name": "Amanda White",
+      "issue_type": "Shipping Delay",
+      "product_id": "P003",
+      "description": "Order was supposed to arrive on Sept 25th but still hasn't shipped. Need it for a marathon next week.",
+      "status": "Resolved",
+      "priority": "Medium",
+      "created_date": "2024-09-27"
+    },
+    {
+      "ticket_id": "T003",
+      "customer_name": "Thomas Brown",
+      "issue_type": "Return Request",
+      "product_id": "P007",
+      "description": "Coffee maker stopped working after 3 weeks. Would like a replacement or refund.",
+      "status": "In Progress",
+      "priority": "High",
+      "created_date": "2024-09-29"
+    },
+    {
+      "ticket_id": "T004",
+      "customer_name": "Patricia Garcia",
+      "issue_type": "Question",
+      "product_id": "P008",
+      "description": "Do these AirPods work with Android phones? Website doesn't specify clearly.",
+      "status": "Resolved",
+      "priority": "Low",
+      "created_date": "2024-09-22"
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "ORD001",
+      "customer_name": "Jessica Lee",
+      "order_date": "2024-09-28",
+      "total_amount": 759.97,
+      "status": "Delivered",
+      "items": [
+        {"product_id": "P001", "quantity": 1, "price": 549.99},
+        {"product_id": "P004", "quantity": 1, "price": 89.99},
+        {"product_id": "P005", "quantity": 1, "price": 12.99}
+      ],
+      "shipping_address": "123 Main St, Austin, TX 78701"
+    },
+    {
+      "order_id": "ORD002",
+      "customer_name": "Kevin Patel",
+      "order_date": "2024-10-02",
+      "total_amount": 369.98,
+      "status": "Shipped",
+      "items": [
+        {"product_id": "P003", "quantity": 2, "price": 119.99},
+        {"product_id": "P005", "quantity": 1, "price": 12.99}
+      ],
+      "shipping_address": "456 Oak Ave, Seattle, WA 98101"
+    },
+    {
+      "order_id": "ORD003",
+      "customer_name": "Rachel Kim",
+      "order_date": "2024-10-03",
+      "total_amount": 249.99,
+      "status": "Processing",
+      "items": [
+        {"product_id": "P008", "quantity": 1, "price": 249.99}
+      ],
+      "shipping_address": "789 Pine Rd, Portland, OR 97201"
+    }
+  ],
+  "product_faqs": [
+    {
+      "product_id": "P001",
+      "question": "Does this TV support HDR10+?",
+      "answer": "Yes, this Samsung TV supports HDR10, HDR10+, and HLG formats for enhanced picture quality."
+    },
+    {
+      "product_id": "P004",
+      "question": "Can I use this for canning?",
+      "answer": "No, the Instant Pot Duo is not suitable for canning. Please use a dedicated pressure canner for canning purposes."
+    },
+    {
+      "product_id": "P008",
+      "question": "Are these AirPods water-resistant?",
+      "answer": "Yes, AirPods Pro (2nd Gen) are sweat and water resistant with an IPX4 rating. However, they are not waterproof."
+    }
+  ]
+}
