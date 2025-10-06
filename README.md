@@ -117,7 +117,9 @@ GenAI.Foundations/
 ├── Module01/          # Day 1 content
 │   ├── JavaScript/    # JavaScript exercises and solutions
 │   └── Python/        # Python exercises and solutions
-├── Module02/          # Day 2 content (coming soon)
+├── Module02/          # Day 2 content
+│   ├── JavaScript/    # JavaScript exercises and solutions
+│   └── Python/        # Python exercises and solutions
 ├── Module03/          # Day 3 content (coming soon)
 ├── Module04/          # Day 4 content (coming soon)
 └── Module05/          # Day 5 content (coming soon)
