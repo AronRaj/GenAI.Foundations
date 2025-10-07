@@ -1,0 +1,31 @@
+{
+  "name": "module03-rag-semantic-search",
+  "version": "1.0.0",
+  "description": "Module 03: Retrieval Augmented Generation (RAG) and Semantic Search with LangChain",
+  "type": "module",
+  "main": "semantic-search.js",
+  "scripts": {
+    "semantic-search": "node semantic-search.js",
+    "rag": "node rag-langchain.js",
+    "semantic-search:solution": "node Solution/semantic-search-solution.js",
+    "rag:solution": "node Solution/rag-langchain-solution.js"
+  },
+  "keywords": [
+    "langchain",
+    "rag",
+    "semantic-search",
+    "azure-openai",
+    "vector-store",
+    "embeddings"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@langchain/community": "^0.3.21",
+    "@langchain/core": "^0.3.28",
+    "@langchain/openai": "^0.3.17",
+    "@langchain/textsplitters": "^0.1.0",
+    "dotenv": "^16.4.7",
+    "pdf-parse": "^1.1.1"
+  }
+}
