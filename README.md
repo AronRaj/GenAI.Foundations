@@ -123,7 +123,9 @@ GenAI.Foundations/
 ├── Module03/          # Day 3 content
 │   ├── JavaScript/    # JavaScript exercises and solutions
 │   └── Python/        # Python exercises and solutions
-├── Module04/          # Day 4 content (coming soon)
+├── Module04/          # Day 4 content
+│   ├── JavaScript/    # JavaScript exercises and solutions
+│   └── Python/        # Python exercises and solutions
 └── Module05/          # Day 5 content (coming soon)
 ```
 
