@@ -1,0 +1,9 @@
+langchain-community
+langchain-azure-ai
+langchain-core
+langchain-text-splitters
+langgraph
+pypdf
+python-dotenv
+ipykernel
+bs4

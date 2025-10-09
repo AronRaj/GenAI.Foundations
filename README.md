@@ -85,7 +85,7 @@ Build a RAG system that retrieves delivery logs and traffic updates, then genera
   Explore design principles, limitations, and strategies for scaling agentic systems.
 
 - **Hands-on Agentic System**  
-  Build a modular agent using Azure AI Foundry or Semantic Kernel with LangChain and LangSmith.
+  Build a modular agent using Langgraph.
 
 ### Lab:
 Create an agent that monitors delivery status, reprioritizes orders, and communicates updates. Use LangSmith to trace agent decisions.

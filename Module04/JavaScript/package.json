@@ -1,0 +1,34 @@
+{
+  "name": "module04-langgraph-agentic-rag",
+  "version": "1.0.0",
+  "description": "Module 04: Agentic RAG with LangGraph - Building Stateful AI Workflows",
+  "type": "module",
+  "main": "rag-langgraph.js",
+  "scripts": {
+    "rag": "node rag-langgraph.js",
+    "retail": "node retail-usecase.js",
+    "rag:solution": "node Solution/rag-langgraph-solution.js",
+    "retail:solution": "node Solution/retail-usecase-solution.js"
+  },
+  "keywords": [
+    "langgraph",
+    "agentic-rag",
+    "langchain",
+    "azure-openai",
+    "state-management",
+    "graph-workflows",
+    "react-agent",
+    "tools",
+    "memory"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@langchain/community": "^0.3.21",
+    "@langchain/core": "^0.3.28",
+    "@langchain/openai": "^0.3.17",
+    "@langchain/langgraph": "^0.2.19",
+    "dotenv": "^16.4.7",
+    "uuid": "^11.0.3"
+  }
+}
