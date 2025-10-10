@@ -126,7 +126,9 @@ GenAI.Foundations/
 ├── Module04/          # Day 4 content
 │   ├── JavaScript/    # JavaScript exercises and solutions
 │   └── Python/        # Python exercises and solutions
-└── Module05/          # Day 5 content (coming soon)
+└── Module05/          # Day 5 content
+│   ├── JavaScript/    # JavaScript exercises and solutions
+│   └── Python/        # Python exercises and solutions
 ```
 
 Each day's folder contains detailed instructions for labs and hands-on exercises.

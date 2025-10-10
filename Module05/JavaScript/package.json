@@ -1,0 +1,33 @@
+{
+  "name": "module05-langgraph-mcp-agent",
+  "version": "1.0.0",
+  "description": "Module 05: LangGraph MCP Agent - Building Tool-Enabled AI Agents with Model Context Protocol",
+  "type": "module",
+  "main": "langgraph-mcp-agent.js",
+  "scripts": {
+    "mcp": "node langgraph-mcp-agent.js",
+    "mcp:solution": "node Solution/langgraph-mcp-agent-solution.js"
+  },
+  "keywords": [
+    "langgraph",
+    "mcp",
+    "model-context-protocol",
+    "langchain",
+    "azure-openai",
+    "tools",
+    "http-client",
+    "agent",
+    "react"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@langchain/community": "^0.3.21",
+    "@langchain/core": "^0.3.28",
+    "@langchain/openai": "^0.3.17",
+    "@langchain/langgraph": "^0.2.19",
+    "dotenv": "^16.4.7",
+    "axios": "^1.7.7",
+    "uuid": "^11.0.3"
+  }
+}
